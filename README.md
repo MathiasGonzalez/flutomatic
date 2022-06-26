@@ -1,0 +1,2 @@
+# flutomatic
+Flutter App Genrator 
